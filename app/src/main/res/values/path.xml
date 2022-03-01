@@ -1,0 +1,25 @@
+<resources>
+    <string name="path">
+        0$Zabezpiecz miejsce zdarzenia$Zabezpiecz miejsce zdarzenia. Upewnij się, że tobie, oraz osobom postronnym nie zagraża niebezpieczeństwo.$Simple$a0$i0$1|
+        1$Czy osoba poszkodowana jest przytomna?$Sprawdź czy osoba poszkodowana jest przytomna. Złap osobę za ramiona i potrząśnij delikatnie. Spytaj, czy osoba cię słyszy, sprawdź czy reaguje.$Choice$a1$i1$2$7|
+        2$Czy wymaga udzielenia pomocy?$Description$Choice$choicestep$choicestep$4$3|
+        3$Koniec$Description$Finish$placeholder$placeholder$0|
+        4$Wezwij karetkę$Description$Simple$simplestep$simplestep$5|
+        5$Poczekaj do przyjazdu karetki$Description$Simple$simplestep$simplestep$6|
+        6$Koniec$Description$Finish$placeholder$placeholder$0|
+        7$Zawołaj o pomoc$Description$Simple$simplestep$simplestep$8|
+        8$Czy poszkodowany oddycha?$Description$Choice$choicestep$choicestep$15$9|
+        9$Wezwij karetkę$Description$Simple$simplestep$simplestep$10|
+        10$Przygotuj się do masażu serca$Description$Simple$simplestep$simplestep$11| <!-- instrukcja masażu serca-->
+        11$Masaż serca$Description$Heart$heartstep$placeholder$12| <!-- właściwy masaż serca-->
+        12$Dwa oddechy resuscytacyjne$Description$Simple$simplestep$simplestep$13|
+        13$Czy zakończyć$Description$Choice$choicestep$choicestep$14$11|
+        14$Koniec$Description$Finish$placeholder$placeholder$0|
+        15$Ułóż w pozycji bezpiecznej$Description$Simple$simplestep$simplestep$16|
+        16$Wezwij karetkę$Description$Simple$simplestep$simplestep$17|
+        17$Poczekaj do przyjazdu$Description$Simple$simplestep$simplestep$18|
+        18$Koniec$Description$Finish$placeholder$placeholder$0
+    </string>
+
+
+</resources>
